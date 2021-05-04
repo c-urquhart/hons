@@ -1,0 +1,37 @@
+#centreList{
+	width: 80%;
+	height: 90%;
+	//background-color: grey;
+	margin: auto;
+	border: 1px solid black;
+	overflow: auto;
+	padding: 5px
+}
+
+#paperTable{
+	width: 98%;
+	margin: auto;
+	border: 1px solid black;
+}
+
+.tableCell{
+	border: 1px solid black;
+	text-indent: 2px;
+}
+
+.dropdown{
+	margin: auto;
+	padding: 5px;
+}
+
+#addButton{
+	position:fixed;
+	width:5%;
+	height:8%;
+	bottom:15%;
+	right:5%;
+	background-color:#0C9;
+	color:#FFF;
+	text-align:center;
+	border-radius:10px;
+}
